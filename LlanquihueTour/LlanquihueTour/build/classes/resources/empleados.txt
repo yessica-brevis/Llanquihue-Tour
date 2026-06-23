@@ -1,0 +1,4 @@
+Yessica Reyes;17.604.801-0;y.reyes@llanquihuetour.cl;Guia Turistico;Excursiones;Llanquihue Tour
+Guillermo Salas;15.987.654-3;g.salas@transportespv.cl;Conductor;Transporte Turistico;Transportes Puerto Varas
+Natalia Jara;18.126.794-5;n.jara@llanquihuetour.cl;Coordinadora de Reservas;Atencion al Cliente;Llanquihue Tour
+Evelyn Catalan;17.765.903-0;E.Catalan@llanquihuetour.cl;Guia Turistico;Excursiones;Llanquihue Tour

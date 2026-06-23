@@ -1,0 +1,7 @@
+Yessica Reyes;17.604.801-0;y.reyes@llanquihuetour.cl;Guia Turistico;Excursiones;Llanquihue Tour;Del Solar;698;Llanquihue;Los Lagos
+Guillermo Salas;15.987.654-3;g.salas@transportespv.cl;Conductor;Transporte Turistico;Transportes Puerto Varas;Los Arrayanes;250;Puerto Varas;Los Lagos
+Natalia Jara;18.126.794-5;n.jara@llanquihuetour.cl;Coordinadora de Reservas;Atencion al Cliente;Llanquihue Tour;San Martin;450;Puerto Montt;Los Lagos
+Evelyn Catalan;17.765.903-0;e.catalan@llanquihuetour.cl;Guia Turistico;Excursiones;Llanquihue Tour;Del Lago;150;Frutillar;Los Lagos
+Luis Gomez;14.927.334-9;l.gomez@transportespv.cl;Conductor;Transporte Turistico;Transportes Puerto Varas;Altos del Sol;5123;Puerto Varas;Los Lagos
+Mario Aguirre;17.917.311-9;m.aguirre@transportespv.cl;Supervisor de Conductores;Logistica;Transportes Puerto Varas;Las Golondrinas;903;Frutillar;Los Lagos
+Maria Guzman;20.133.391-0;m.guzman@transportespv.cl;Despachador de Rutas;Logistica;Transportes Puerto Varas;Altos del Sol;568;Frutillar;Los Lagos
